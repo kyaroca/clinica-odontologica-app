@@ -25,7 +25,6 @@ class Login extends React.Component{
                                                     <br>
                                                     </br>
                                                  <button className="btn btn-success">Entrar</button>
-                                                 <button className="btn btn-danger">Cadastrar</button>
                                                                     
                                             </fieldset>
                                         </div>
